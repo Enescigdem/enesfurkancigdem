@@ -1,4 +1,5 @@
 ## Hi there, I'm Enes! 🌟💻🎧
+![Profile views](https://komarev.com/ghpvc/?username=Enescigdem&label=Profile%20views&color=purple&style=flat)
 
 **Computer Engineer | AI Researcher | NLP & Audio Enthusiast**
 
