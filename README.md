@@ -11,5 +11,5 @@
 
 📫 **Let’s connect**
 - 
-- [LinkedIn]([https://linkedin.com/in/enesfurkancigdem/])
+- [LinkedIn](https://linkedin.com/in/enesfurkancigdem)
 - 📧 enesfurkancigdem@gmail.com
